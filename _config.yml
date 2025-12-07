@@ -1,0 +1,16 @@
+title: "Mi sitio con Jekyll en GitHub Pages"
+description: "Mi primer sitio estático con Jekyll y GitHub Pages"
+theme: minima
+
+# Si es sitio de usuario:
+url: "https://tu-usuario.github.io"
+
+# Si es sitio de proyecto:
+# url: "https://tu-usuario.github.io"
+# baseurl: "/nombre-del-repo"
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
